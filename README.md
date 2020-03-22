@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# BayAreaMutualAid.org
 
-You can use the [editor on GitHub](https://github.com/BayAreaMutualAid/bayareamutualaid.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the source code for the Bay Area Mutual Aid website at https://bayareamutualaid.org
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Code of Conduct
+Bay Area Mutual Aid is an open source project. We want everyone to feel safe in our community, and we welcome participation from people of all backgrounds, regardless of experience level, age, gender identity, race, religion, or nationality.
 
-### Markdown
+All participants are expected to uphold the Code of Conduct (*TODO*).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Make Changes
+Markdown is a lightweight and easy-to-use syntax for styling your writing. See [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-```markdown
-Syntax highlighted code block
+Layout and styles from the Jekyll theme live in the [repository settings](https://github.com/BayAreaMutualAid/bayareamutualaid.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BayAreaMutualAid/bayareamutualaid.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+Except where otherwise noted, content on this site is licensed under a [GNU General Public License v3 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
