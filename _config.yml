@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+title: "Bay Area Mutual Aid"
+description: "Map offers and requests, and add to a growing list of mutual aid resources for SF Bay Area neighbors"
+url: "https://bayareamutualaid.org"
+homepage: "https://bayareamutualaid.org"
+repository: "bayareamutualaid/bayareamutualaid.org"
+respository_url: "https://github.com/bayareamutualaid/bayareamutualaid.org"
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
