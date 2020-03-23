@@ -22,7 +22,7 @@ feature_row:
     alt: "Wiki of Resources"
     title: "Wiki"
     excerpt: "View and add to a collaborative wiki of local, national, and global resources and information."
-    url: "https://wiki.bayareamutualaid.org"
+    url: "https://bayareamutualaid.miraheze.org"
     btn_class: "btn--primary"
     btn_label: "Go to Wiki"
   - image_path: /assets/images/groups.png
