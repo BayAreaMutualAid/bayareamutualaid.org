@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-learnpub'></i> Learn more"
-      url: "/about.md"
+      url: "/about/"
 excerpt: >
   Map offers and requests, and add to a growing list of mutual aid resources for the SF Bay Area response to COVID-19<br />
 
