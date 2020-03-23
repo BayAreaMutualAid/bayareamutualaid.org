@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 title: "Bay Area Mutual Aid"
 description: "Map offers and requests, and add to a growing list of mutual aid resources for SF Bay Area neighbors"
 url: "https://bayareamutualaid.org"
