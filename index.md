@@ -29,7 +29,7 @@ feature_row:
     alt: "Local Groups"
     title: "Local Groups"
     excerpt: "Links to groups for organizing locally."
-    url: "/groups/"
+    url: "https://bayareamutualaid.org/wiki/Groups"
     btn_class: "btn--primary"
     btn_label: "Go to Groups"      
 ---
