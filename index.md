@@ -18,7 +18,7 @@ feature_row:
     url: "https://bayareamutualaid.ushahidi.io"
     btn_class: "btn--primary"
     btn_label: "Go to Map"
-  - image_path: /assets/images/wiki.png
+  - image_path: /assets/images/bama_wiki.png
     alt: "Wiki of Resources"
     title: "Wiki"
     excerpt: "View and add to a collaborative wiki of local, national, and global resources and information."
