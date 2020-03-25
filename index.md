@@ -21,14 +21,14 @@ feature_row:
   - image_path: /assets/images/bama_wiki.png
     alt: "Wiki of Resources"
     title: "Wiki"
-    excerpt: "View and add to a collaborative wiki of local, national, and global resources and information."
+    excerpt: "View and add to a collaborative wiki of localresources and information."
     url: "https://bayareamutualaid.org/wiki"
     btn_class: "btn--primary"
     btn_label: "Go to Wiki"
   - image_path: /assets/images/groups.png
     alt: "Local Groups"
     title: "Local Groups"
-    excerpt: "Links to groups for organizing locally."
+    excerpt: "Links to groups organizing locally to provide mutual aid support."
     url: "https://bayareamutualaid.org/wiki/Groups"
     btn_class: "btn--primary"
     btn_label: "Go to Groups"      
