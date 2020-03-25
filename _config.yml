@@ -7,6 +7,7 @@ repository: "bayareamutualaid/bayareamutualaid.org"
 respository_url: "https://github.com/bayareamutualaid/bayareamutualaid.org"
 github_username: bayareamutualaid
 search: true
+logo: "/assets/images/bama_logo.png"
 
 # Build settings
 markdown: kramdown
