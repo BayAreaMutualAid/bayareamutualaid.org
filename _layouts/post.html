@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+
+<h1>
+{% if page.link %}
+  <a href="{{ page.link }}">
+    {{ page.title }}
+  </a>
+{% else %}
+  <a href="{{ page.url }}">
+    {{ page.title }}
+  </a>
+{% endif %}
+</h1>
+
+    {{ content }}
+  </body>
+</html>
