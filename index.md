@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-learnpub'></i> Learn more"
       url: "/about/"
 excerpt: >
-  Map offers and requests, and add to a growing list of mutual aid resources for the SF Bay Area response to COVID-19<br />
+  Map offers and requests, find local mutual aid groups, and add to a growing compendium of mutual aid resources for the SF Bay Area response to COVID-19<br />
 
 feature_row:
   - image_path: /assets/images/sfbay_map.png
